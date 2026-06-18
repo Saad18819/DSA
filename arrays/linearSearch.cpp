@@ -1,5 +1,5 @@
 // so basically apan ko array de diya and were told ki koi bhi number konse index pe aata hai
-// so what linear search do ki basically it goes through each and every index starting from 0 then 1 untill it gets that num and returns their index even if 2 num voh array me hai so jo pehle aaya vhi pe stop ho jaata and if num exist hi nhi karta then after checking pura array it will return -1
+// so what linear search do ki basically it goes through each and every index starting from 0 then 1 untill it gets that num and returns their index even if 2 same numbers voh array me hai so jo pehle aaya vhi pe stop ho jaata and if num exist hi nhi karta then after checking pura array it will return -1
 
 
 #include<iostream>
